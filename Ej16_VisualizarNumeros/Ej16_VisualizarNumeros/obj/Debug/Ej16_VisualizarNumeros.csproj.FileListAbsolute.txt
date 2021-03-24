@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\bin\Debug\Ej16_VisualizarNumeros.exe.config
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\bin\Debug\Ej16_VisualizarNumeros.exe
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\bin\Debug\Ej16_VisualizarNumeros.pdb
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.Form1.resources
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.exe
+C:\Users\jared\source\repos\Ej16_VisualizarNumeros\Ej16_VisualizarNumeros\obj\Debug\Ej16_VisualizarNumeros.pdb
